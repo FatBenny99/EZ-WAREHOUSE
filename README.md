@@ -1,5 +1,8 @@
 # **EZWH - Code**
 
+This is the final project submitted to pass the Software Engineering Exam. Inside this repository you will find a client which is a web application that can interact with a server to handle the data warehouse and a server which is in charge of answering some APIs call. In this project only the server part was made by me and other colleagues.
+
+
 ## **Setup and start of frontend and backend**
 
 ### **How to start backend**
